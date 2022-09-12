@@ -1,6 +1,6 @@
 # THARUWA-MD
 This project is still being tested
-<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://ibb.co/qC0F6mD"/></a>
+<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/9b4b82d5a8611ec143087.jpg"/></a>
  <p align="center">
 <a href="https://github.com/sanuwaofficial/AQUABOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/sanuwaofficial?e=flat-square"></a>
 <a href="https://github.com/sanuwaofficial/AQUABOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sanuwaofficial/AQUABOT-MD?color=blue&style=flat-square"></a>

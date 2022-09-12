@@ -1,14 +1,14 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "name": "THARUWA - MD",
+    "description": "THARUWA  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
-    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
+    "keywords": ["whatsapp", "userbot", "THARUWA", "bot", "ai" , "MD" ],
     "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
     "website":   "https://aquabot.ga/",
     "success_url": "https://aquabot.ga",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
+            "THARUWA_SESSION": {
             "description": "",
             "required": true
              },
@@ -33,16 +33,16 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "THARUWA" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "94768705106" ,
             "required": true
              },
        
-            "AUTO_REACT": {
+            "THARUWA_REACT": {
             "description": "",
             "value": "false" ,
             "required": true
@@ -50,7 +50,7 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
+            "value": "🎊THARUWA🎊" ,
             "required": true
       },
            "URL_1LINK": {
@@ -70,7 +70,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐓𝐇𝐀𝐑𝐔𝐖𝐀 ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -80,7 +80,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝐓𝐇𝐀𝐑𝐔𝐖𝐀 ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -136,7 +136,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "⛲𝐓𝐇𝐀𝐑𝐔𝐖𝐀 𝐁𝐎𝐓ƚ ࿐" ,
             "required": true
       },
           "WORK_TYPE": {

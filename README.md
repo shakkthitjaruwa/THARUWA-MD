@@ -26,7 +26,8 @@ This project is still being tested
 
 ## Thanks To
 
-## 𝐌𝐎𝐃 𝐁𝐘 𝐓𝐇𝐀𝐑𝐔𝐖𝐀
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+THARUWA+MD+WA+BOT.;CREATED+BY+THARUWA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
 
  
